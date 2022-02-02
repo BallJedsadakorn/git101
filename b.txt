@@ -1,1 +1,2 @@
 สร้างไฟล์ b ใหม่feature2
+แก้จาก branch main
